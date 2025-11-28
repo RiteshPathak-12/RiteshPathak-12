@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Pathak</h1>
-<h3 align="center">Android Developer | Java Enthusiast | Open Source Contributor</h3>
-
+<h3 align="center">Android Developer | Java Enthusiast | Web Developer </h3>
 ---
 
 ⭐ Passionate about **Android & App Development** <br>
@@ -57,32 +56,15 @@
 
 ---
 
-### 🚀 Projects
 
-| 🧩 Project | 💡 Description |
-|-----------|----------------|
-| 📱 **Telemedicine App** | Android-based solution for remote healthcare |
-| 🏭 **Small Industry Project** | Business planning & presentation module |
-| 👨‍🎓 **Mini Project Collection** | Various learning-based Java & App Dev projects |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiteshPathak-12&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshPathak-12&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
 <div>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:pathakritesh2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ritesh-pathak-5400072b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
