@@ -3,7 +3,7 @@
 ---
 
 ⭐ Passionate about **Android & App Development** <br>
-📱 Currently working on **Telemedicine App & Small Industry Project** <br>
+📱 Currently working on **Telemedicine App** <br>
 🌱 Learning **Java, Android Studio, Firebase & GitHub** <br>
 💡 Exploring how technology can solve real-world problems <br>
 
@@ -22,7 +22,7 @@
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C Language">
 </div>
 
 <br>
@@ -32,6 +32,16 @@
   
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+</div>
+
+<br>
+
+<div align='center'>
+  <h3 align="center">🌐 Web Development</h3>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
 <br>
